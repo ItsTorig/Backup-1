@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-25 23:40:51 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2025-04-25 23:35:45 +0000"
@@ -46,6 +52,12 @@
       "log_spam_fixer": "2025-04-25 23:35:46 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-04-25 23:40:51 +0000"
+    },
+    "done": true
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
@@ -113,6 +125,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-25 23:40:51 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-04-25 23:35:46 +0000"
@@ -121,6 +139,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-04-25 23:47:24 +0000",
+      "minecraft:forest": "2025-04-25 23:39:26 +0000",
       "minecraft:plains": "2025-04-25 23:36:09 +0000"
     },
     "done": false
