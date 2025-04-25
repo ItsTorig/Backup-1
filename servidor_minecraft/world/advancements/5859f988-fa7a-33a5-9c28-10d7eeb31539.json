@@ -898,7 +898,8 @@
       "glow_berries": "2025-04-24 21:03:10 +0000",
       "sweet_berries": "2025-04-24 03:23:16 +0000",
       "potato": "2025-04-25 04:20:41 +0000",
-      "wheat": "2025-04-24 03:04:22 +0000"
+      "wheat": "2025-04-24 03:04:22 +0000",
+      "pumpkin": "2025-04-25 21:19:17 +0000"
     },
     "done": false
   },
@@ -4248,77 +4249,47 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
-      "log_spam_fixer": "2025-04-25 05:20:29 +0000"
+      "fried_egg": "2025-04-25 04:01:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "travelersbackpack:recipes/misc/cake": {
     "criteria": {
-      "log_spam_fixer": "2025-04-25 05:20:29 +0000"
+      "has_egg": "2025-04-25 04:01:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "supplementaries:recipes/pancake_fd": {
     "criteria": {
-      "log_spam_fixer": "2025-04-25 05:20:29 +0000"
+      "forge:eggs": "2025-04-25 04:01:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
     "criteria": {
-      "log_spam_fixer": "2025-04-25 05:20:29 +0000"
+      "has_egg": "2025-04-25 04:01:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
-      "log_spam_fixer": "2025-04-25 05:20:29 +0000"
+      "fried_egg": "2025-04-25 04:01:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "log_spam_fixer": "2025-04-25 05:20:29 +0000"
+      "has_egg": "2025-04-25 04:01:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
-      "log_spam_fixer": "2025-04-25 05:20:29 +0000"
+      "fried_egg": "2025-04-25 04:01:26 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 05:20:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 05:20:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 05:20:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 05:20:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 05:20:29 +0000"
-    },
-    "done": false
+    "done": true
   },
   "handcrafted:recipes/misc/cherry_cupboard": {
     "criteria": {
@@ -4332,18 +4303,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-04-25 04:01:26 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/cherry_shrub": {
-    "criteria": {
-      "has_cherry_sapling": "2025-04-25 04:13:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-04-25 04:08:48 +0000"
@@ -4353,18 +4312,6 @@
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-25 04:08:48 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cake": {
-    "criteria": {
-      "has_egg": "2025-04-25 04:01:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-04-25 05:10:18 +0000"
     },
     "done": true
   },
@@ -4389,18 +4336,6 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-04-25 04:08:48 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pancake_fd": {
-    "criteria": {
-      "forge:eggs": "2025-04-25 04:01:26 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/food/skyroot_milk_bucket_cake": {
-    "criteria": {
-      "has_egg": "2025-04-25 04:01:26 +0000"
     },
     "done": true
   },
@@ -4434,12 +4369,6 @@
     },
     "done": true
   },
-  "botania:recipes/tools/lexicon": {
-    "criteria": {
-      "has_item": "2025-04-25 04:13:29 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/cherry_fancy_bed": {
     "criteria": {
       "has_cherry_fancy_bed": "2025-04-25 04:08:48 +0000"
@@ -4449,18 +4378,6 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-04-25 04:08:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-04-25 04:01:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-04-25 04:01:26 +0000"
     },
     "done": true
   },
@@ -4548,9 +4465,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "regions_unexplored:recipes/decorations/cherry_shrub": {
     "criteria": {
-      "fried_egg": "2025-04-25 04:01:26 +0000"
+      "has_cherry_sapling": "2025-04-25 04:13:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lexicon": {
+    "criteria": {
+      "has_item": "2025-04-25 04:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-04-25 05:10:18 +0000"
     },
     "done": true
   },

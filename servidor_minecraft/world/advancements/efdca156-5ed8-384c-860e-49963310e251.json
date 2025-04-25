@@ -6925,88 +6925,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
-      "log_spam_fixer": "2025-04-25 19:06:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:06:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:06:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:06:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:06:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:06:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:06:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:06:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:06:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-04-25 19:06:36 +0000",
-      "log_spam_fixer": "2025-04-25 19:06:28 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:06:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:06:28 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
+      "has_golden_carrot": "2025-04-25 17:44:52 +0000"
     },
     "done": true
   },
@@ -7022,33 +6943,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-04-25 17:54:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
     },
     "done": true
   },
@@ -7058,27 +6955,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-04-25 17:44:52 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-04-25 17:54:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
     },
     "done": true
   },
@@ -7094,33 +6973,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-04-25 17:54:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
     },
     "done": true
   },
@@ -7142,18 +6997,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-04-25 18:23:27 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/ashen_dirt_from_silt_dirt": {
-    "criteria": {
-      "has_ash": "2025-04-25 19:03:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-04-25 17:54:10 +0000"
@@ -7166,27 +7009,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/ashen_dirt_from_dirt": {
-    "criteria": {
-      "has_ash": "2025-04-25 19:03:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-04-25 17:54:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
     },
     "done": true
   },
@@ -7196,27 +7021,9 @@
     },
     "done": true
   },
-  "quark:get_all_corundum": {
-    "criteria": {
-      "green": "2025-04-25 18:46:31 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-04-25 17:54:10 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/ashen_dirt_from_peat_dirt": {
-    "criteria": {
-      "has_ash": "2025-04-25 19:03:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
     },
     "done": true
   },
@@ -7238,9 +7045,111 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-25 18:23:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-04-25 18:24:06 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "green": "2025-04-25 18:46:31 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
     },
     "done": true
   },
@@ -7265,6 +7174,30 @@
   "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-25 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ashen_dirt_from_silt_dirt": {
+    "criteria": {
+      "has_ash": "2025-04-25 19:03:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ashen_dirt_from_dirt": {
+    "criteria": {
+      "has_ash": "2025-04-25 19:03:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ashen_dirt_from_peat_dirt": {
+    "criteria": {
+      "has_ash": "2025-04-25 19:03:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2025-04-25 21:28:19 +0000"
     },
     "done": true
   },

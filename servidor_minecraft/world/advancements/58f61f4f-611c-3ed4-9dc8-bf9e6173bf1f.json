@@ -3393,78 +3393,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-04-25 19:54:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:54:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:54:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:54:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:54:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:54:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:54:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:54:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:54:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-04-25 19:54:08 +0000",
-      "log_spam_fixer": "2025-04-25 19:54:08 +0000"
+      "has_golden_helmet": "2025-04-25 17:57:29 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:54:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 19:54:08 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
@@ -3508,12 +3441,6 @@
     },
     "done": true
   },
-  "aether:recipes/combat/golden_helmet_repairing": {
-    "criteria": {
-      "has_golden_helmet": "2025-04-25 17:57:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-04-25 19:37:48 +0000"
@@ -3529,12 +3456,6 @@
   "travelersbackpack:recipes/misc/sandstone": {
     "criteria": {
       "has_sandstone": "2025-04-25 19:37:48 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_chestplate_repairing": {
-    "criteria": {
-      "has_golden_chestplate": "2025-04-25 19:42:36 +0000"
     },
     "done": true
   },
@@ -3577,6 +3498,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-04-25 19:37:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-04-25 19:42:36 +0000"
     },
     "done": true
   },

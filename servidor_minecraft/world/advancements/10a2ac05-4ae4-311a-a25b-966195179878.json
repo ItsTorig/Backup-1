@@ -4497,6 +4497,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-04-25 20:08:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-04-25 19:05:11 +0000"
@@ -4602,6 +4608,18 @@
   "botania:recipes/tools/manasteel_pick": {
     "criteria": {
       "has_item": "2025-04-25 19:36:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-04-25 20:08:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-25 20:08:33 +0000"
     },
     "done": true
   },
@@ -4731,6 +4749,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-25 20:08:33 +0000"
+    },
+    "done": true
+  },
   "botania:main/mana_pool_pickup": {
     "criteria": {
       "pickup": "2025-04-25 19:49:07 +0000"
@@ -4764,6 +4788,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-04-25 18:47:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-04-25 20:08:33 +0000"
     },
     "done": true
   },
@@ -4944,6 +4974,12 @@
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-25 19:27:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-04-25 20:08:33 +0000"
     },
     "done": true
   },
