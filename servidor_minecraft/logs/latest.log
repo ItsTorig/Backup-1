@@ -1238,3 +1238,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 22:47:32.954] [Server thread/INFO] [Jade/]: Syncing config to Torig10 (efdca156-5ed8-384c-860e-49963310e251)
 [25Apr2025 22:47:34.542] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Torig10 (18)
 [25Apr2025 22:47:34.543] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Torig10
+[25Apr2025 22:55:14.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: o8h_msmc_jw5[/127.188.111.82:42783] logged in with entity id 3981 at (-619.6999999880791, 94.375, -1143.447319448965)
+[25Apr2025 22:55:14.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 joined the game
+[25Apr2025 22:55:15.006] [Server thread/INFO] [Jade/]: Syncing config to o8h_msmc_jw5 (10a2ac05-4ae4-311a-a25b-966195179878)
+[25Apr2025 22:55:16.155] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of o8h_msmc_jw5 (18)
+[25Apr2025 22:55:16.155] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to o8h_msmc_jw5
+[25Apr2025 22:56:17.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> oal
+[25Apr2025 22:56:20.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> oal
+[25Apr2025 22:58:41.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 was slain by Zombie
+[25Apr2025 22:58:41.524] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Torig10 with unique ID travelersbackpack.fox_25.04.2025-22.58.41.dat
+[25Apr2025 22:58:41.565] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
