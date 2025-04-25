@@ -1403,3 +1403,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 19:12:29.309] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
 [25Apr2025 19:12:29.309] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [25Apr2025 19:12:29.309] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[25Apr2025 19:13:37.438] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/358722, l='ServerLevel[world]', x=-732.54, y=79.55, z=-2531.35] died: Honeyed Archer suffocated in a wall
+[25Apr2025 19:15:25.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[25Apr2025 19:15:28.427] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[25Apr2025 19:15:28.428] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[25Apr2025 19:15:28.429] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[25Apr2025 19:15:52.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11711ms or 234 ticks behind
+[25Apr2025 19:16:12.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5350ms or 107 ticks behind
+[25Apr2025 19:16:34.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[25Apr2025 19:17:02.555] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[25Apr2025 19:17:02.555] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[25Apr2025 19:17:10.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[25Apr2025 19:17:21.275] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Nathan the AC Rizzlord'/363412, l='ServerLevel[world]', x=-677.57, y=-16.83, z=-1091.30] died: Nathan the AC Rizzlord was slain by o8h_msmc_jw5
+[25Apr2025 19:17:51.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1294, y=64, z=-2612} BlockPos{x=-1293, y=62, z=-2611}
+[25Apr2025 19:17:51.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1294, y=64, z=-2612} BlockPos{x=-1293, y=62, z=-2611}
+[25Apr2025 19:21:25.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was frozen to death
+[25Apr2025 19:21:25.747] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for o8h_msmc_jw5 with unique ID travelersbackpack.standard_25.04.2025-19.21.25.dat
+[25Apr2025 19:21:25.758] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[25Apr2025 19:22:57.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [How long's this been here?]
