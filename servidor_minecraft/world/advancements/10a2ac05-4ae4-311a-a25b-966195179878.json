@@ -1128,6 +1128,7 @@
       "minecraft:river": "2025-04-24 03:33:08 +0000",
       "minecraft:dripstone_caves": "2025-04-24 05:21:30 +0000",
       "minecraft:forest": "2025-04-24 04:46:00 +0000",
+      "minecraft:deep_dark": "2025-04-25 23:33:56 +0000",
       "minecraft:meadow": "2025-04-24 05:22:12 +0000",
       "minecraft:savanna": "2025-04-25 03:49:48 +0000",
       "minecraft:plains": "2025-04-24 05:16:50 +0000"
@@ -5062,6 +5063,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-04-25 23:32:35 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-04-25 23:04:41 +0000"
@@ -5092,6 +5099,12 @@
     },
     "done": true
   },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "melting_pan": "2025-04-25 23:32:35 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
       "has_stackable_book": "2025-04-25 23:04:41 +0000"
@@ -5107,6 +5120,12 @@
   "aether:recipes/misc/book_of_lore": {
     "criteria": {
       "has_book": "2025-04-25 23:04:41 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-04-25 23:33:56 +0000"
     },
     "done": true
   },
