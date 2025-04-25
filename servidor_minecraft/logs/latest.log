@@ -1266,3 +1266,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 21:43:11.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-574, y=95, z=-1169} BlockPos{x=-576, y=94, z=-1171}
 [25Apr2025 21:52:00.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-590, y=98, z=-1146} BlockPos{x=-591, y=99, z=-1146}
 [25Apr2025 21:52:00.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-590, y=98, z=-1146} BlockPos{x=-591, y=99, z=-1146}
+[25Apr2025 21:57:44.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has reached the goal [Flawless Crystals]
+[25Apr2025 21:58:15.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Torig10 lost connection: Timed out
+[25Apr2025 21:58:15.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 left the game
+[25Apr2025 21:58:15.908] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Torig10
+[25Apr2025 21:58:15.953] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Apr2025 21:59:50.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cronotermio[/127.86.58.23:35617] logged in with entity id 202740 at (-2031.300000011921, 66.0, -3227.455714889466)
+[25Apr2025 21:59:50.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio joined the game
+[25Apr2025 21:59:50.441] [Server thread/INFO] [Jade/]: Syncing config to Cronotermio (be4df18d-2965-3874-ba09-696e279b003c)
+[25Apr2025 21:59:51.949] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Cronotermio (18)
+[25Apr2025 21:59:51.949] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Cronotermio
+[25Apr2025 21:59:55.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> ola crono
+[25Apr2025 22:01:43.995] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[25Apr2025 22:01:44.002] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[25Apr2025 22:01:44.005] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[25Apr2025 22:01:55.163] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[25Apr2025 22:01:55.163] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[25Apr2025 22:01:55.163] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[25Apr2025 22:01:55.164] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[25Apr2025 22:01:55.164] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[25Apr2025 22:01:55.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cronotermio moved too quickly! -4.40858742213004,-0.17522400453186293,10.825621028981004
+[25Apr2025 22:06:32.818] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[25Apr2025 22:06:38.085] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
