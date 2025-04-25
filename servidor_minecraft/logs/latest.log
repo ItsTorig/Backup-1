@@ -1235,3 +1235,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 17:45:31.390] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Torig10 with unique ID travelersbackpack.fox_25.04.2025-17.45.31.dat
 [25Apr2025 17:45:31.422] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
 [25Apr2025 17:48:38.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Torig10 moved wrongly!
+[25Apr2025 17:53:05.379] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[25Apr2025 17:53:05.418] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _BandoWasHere_[/127.215.170.189:50087] logged in with entity id 6154 at (-504.0617401708485, 63.0, 1179.696093914986)
+[25Apr2025 17:53:05.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ joined the game
+[25Apr2025 17:53:05.519] [Server thread/INFO] [Jade/]: Syncing config to _BandoWasHere_ (58f61f4f-611c-3ed4-9dc8-bf9e6173bf1f)
+[25Apr2025 17:53:07.296] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _BandoWasHere_ (18)
+[25Apr2025 17:53:07.297] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _BandoWasHere_
+[25Apr2025 17:53:30.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was shot by Skeleton
+[25Apr2025 17:53:30.311] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_25.04.2025-17.53.30.dat
+[25Apr2025 17:53:30.318] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[25Apr2025 17:55:34.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was slain by Zombie
+[25Apr2025 17:55:34.600] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_25.04.2025-17.55.34.dat
+[25Apr2025 17:55:34.618] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
