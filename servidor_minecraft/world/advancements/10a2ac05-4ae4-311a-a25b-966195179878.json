@@ -4329,6 +4329,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/mana_ring": {
+    "criteria": {
+      "has_item": "2025-04-25 20:01:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_sword": {
     "criteria": {
       "has_item": "2025-04-25 19:36:22 +0000"
@@ -4743,6 +4749,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_red_double": {
+    "criteria": {
+      "has_item": "2025-04-25 20:02:52 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/auto_crafting_halo": {
     "criteria": {
       "has_item": "2025-04-25 19:51:38 +0000"
@@ -4752,6 +4764,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-04-25 18:47:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_mirror": {
+    "criteria": {
+      "has_item": "2025-04-25 20:01:15 +0000"
     },
     "done": true
   },

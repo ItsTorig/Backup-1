@@ -1477,3 +1477,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 19:46:53.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
 [25Apr2025 19:47:13.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4858ms or 97 ticks behind
 [25Apr2025 19:49:07.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Vivid Wave]
+[25Apr2025 19:54:47.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _BandoWasHere_ lost connection: Disconnected
+[25Apr2025 19:54:47.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ left the game
+[25Apr2025 19:54:47.973] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _BandoWasHere_
+[25Apr2025 20:02:10.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-542, y=88, z=-1167} BlockPos{x=-540, y=87, z=-1168}
+[25Apr2025 20:02:10.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-542, y=88, z=-1167} BlockPos{x=-540, y=87, z=-1168}
+[25Apr2025 20:02:10.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-542, y=88, z=-1166} BlockPos{x=-541, y=87, z=-1167}
+[25Apr2025 20:02:10.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-542, y=88, z=-1166} BlockPos{x=-541, y=87, z=-1167}
+[25Apr2025 20:02:11.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-541, y=89, z=-1169} BlockPos{x=-541, y=87, z=-1170}
+[25Apr2025 20:02:15.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cronotermio moved too quickly! -8.077896651394667,2.0,-6.306918667921309
+[25Apr2025 20:02:23.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2728ms or 54 ticks behind
+[25Apr2025 20:04:40.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cronotermio moved wrongly!
