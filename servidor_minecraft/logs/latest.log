@@ -1255,3 +1255,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 21:27:29.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 fell from a high place
 [25Apr2025 21:27:29.142] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Torig10 with unique ID travelersbackpack.fox_25.04.2025-21.27.29.dat
 [25Apr2025 21:27:29.192] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[25Apr2025 21:40:33.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 was slain by Skeleton
+[25Apr2025 21:40:33.663] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Torig10 with unique ID travelersbackpack.fox_25.04.2025-21.40.33.dat
+[25Apr2025 21:40:33.678] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[25Apr2025 21:41:18.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-567, y=94, z=-1168} BlockPos{x=-567, y=95, z=-1168}
+[25Apr2025 21:41:18.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-567, y=94, z=-1168} BlockPos{x=-567, y=95, z=-1168}
+[25Apr2025 21:41:18.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-567, y=94, z=-1168} BlockPos{x=-567, y=95, z=-1168}
+[25Apr2025 21:41:18.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-567, y=94, z=-1168} BlockPos{x=-567, y=95, z=-1168}
+[25Apr2025 21:43:11.047] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-574, y=95, z=-1169} BlockPos{x=-576, y=94, z=-1171}
+[25Apr2025 21:43:11.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-574, y=95, z=-1169} BlockPos{x=-576, y=94, z=-1171}
