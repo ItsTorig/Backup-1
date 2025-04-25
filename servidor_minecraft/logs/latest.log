@@ -1441,3 +1441,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 19:33:20.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> TORIIIIIIIIIIIIIII
 [25Apr2025 19:33:20.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> se a bugeado
 [25Apr2025 19:33:23.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> xd
+[25Apr2025 19:34:09.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> oal
+[25Apr2025 19:34:13.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> oa
+[25Apr2025 19:34:15.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cronotermio> oa
+[25Apr2025 19:34:36.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> xd
+[25Apr2025 19:34:47.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [A Throwaway Joke]
+[25Apr2025 19:34:51.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [A Strange Grave Dust]
+[25Apr2025 19:34:59.630] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[25Apr2025 19:34:59.630] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[25Apr2025 19:37:21.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [Not Today, Thank You]
+[25Apr2025 19:37:24.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> guatefoc un pigling
+[25Apr2025 19:37:36.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has reached the goal [Strong or Careful]
+[25Apr2025 19:37:36.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali was slain by Enderman
+[25Apr2025 19:37:36.263] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElAkakali with unique ID travelersbackpack.standard_25.04.2025-19.37.36.dat
+[25Apr2025 19:37:36.272] [Server thread/INFO] [tombstone/]: The player ElAkakali has successfully been saved
+[25Apr2025 19:38:52.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> XDD
+[25Apr2025 19:38:54.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> guatefoc
+[25Apr2025 19:38:56.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was shot by Skeleton
+[25Apr2025 19:38:56.518] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_25.04.2025-19.38.56.dat
+[25Apr2025 19:38:56.528] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[25Apr2025 19:39:16.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> como tienes ese arco?
+[25Apr2025 19:39:31.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cronotermio> es magia xd
+[25Apr2025 19:39:39.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> aea
+[25Apr2025 19:40:10.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has made the advancement [Knowledge raises the soul]
+[25Apr2025 19:40:20.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was slain by Zombie
+[25Apr2025 19:40:20.707] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_25.04.2025-19.40.20.dat
+[25Apr2025 19:40:20.726] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[25Apr2025 19:40:26.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [Ashes 'n Bones]
+[25Apr2025 19:42:28.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was slain by Zombie
+[25Apr2025 19:42:28.256] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_25.04.2025-19.42.28.dat
+[25Apr2025 19:42:28.284] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[25Apr2025 19:43:41.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElAkakali lost connection: Disconnected
+[25Apr2025 19:43:41.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali left the game
+[25Apr2025 19:43:41.087] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElAkakali
+[25Apr2025 19:46:53.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[25Apr2025 19:47:13.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4858ms or 97 ticks behind
+[25Apr2025 19:49:07.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Vivid Wave]
