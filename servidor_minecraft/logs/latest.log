@@ -1264,3 +1264,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 18:12:10.183] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
 [25Apr2025 18:12:10.183] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [25Apr2025 18:12:10.184] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
+[25Apr2025 18:23:27.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has made the advancement [Sneak 100]
+[25Apr2025 18:24:06.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has completed the challenge [It Spreads]
+[25Apr2025 18:24:13.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 was shot by Skeleton
+[25Apr2025 18:24:13.024] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Torig10 with unique ID travelersbackpack.fox_25.04.2025-18.24.13.dat
+[25Apr2025 18:24:13.031] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[25Apr2025 18:26:49.370] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/14095, l='ServerLevel[world]', x=-463.05, y=94.42, z=-1143.92] died: Honeyed Archer suffocated in a wall
+[25Apr2025 18:27:13.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: o8h_msmc_jw5[/127.188.111.82:55925] logged in with entity id 124695 at (-543.9699085906473, 88.0, -1174.3830682297037)
+[25Apr2025 18:27:13.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 joined the game
+[25Apr2025 18:27:13.505] [Server thread/INFO] [Jade/]: Syncing config to o8h_msmc_jw5 (10a2ac05-4ae4-311a-a25b-966195179878)
+[25Apr2025 18:27:14.559] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of o8h_msmc_jw5 (18)
+[25Apr2025 18:27:14.559] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to o8h_msmc_jw5
+[25Apr2025 18:27:21.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was shot by Skeleton
+[25Apr2025 18:27:21.934] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_25.04.2025-18.27.21.dat
+[25Apr2025 18:27:21.941] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[25Apr2025 18:27:31.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> ola kchabuelas
+[25Apr2025 18:27:32.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has reached the goal [Strong or Careful]
+[25Apr2025 18:27:32.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was slain by Zombie
+[25Apr2025 18:27:32.945] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for o8h_msmc_jw5 with unique ID travelersbackpack.standard_25.04.2025-18.27.32.dat
+[25Apr2025 18:27:32.979] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[25Apr2025 18:27:32.981] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[25Apr2025 18:27:32.981] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[25Apr2025 18:27:32.982] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[25Apr2025 18:27:32.982] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[25Apr2025 18:27:32.982] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[25Apr2025 18:27:41.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> llamada o8h_msmc_jw5
+[25Apr2025 18:28:14.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> torig mi granja de endermans esta dando frutos
+[25Apr2025 18:29:48.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was shot by Skeleton
+[25Apr2025 18:29:48.797] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_25.04.2025-18.29.48.dat
+[25Apr2025 18:29:48.805] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[25Apr2025 18:31:08.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was shot by Skeleton
+[25Apr2025 18:31:08.718] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_25.04.2025-18.31.08.dat
+[25Apr2025 18:31:08.734] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
