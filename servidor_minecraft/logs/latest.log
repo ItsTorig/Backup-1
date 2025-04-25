@@ -1352,3 +1352,116 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 23:20:49.601] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
 [25Apr2025 23:20:55.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [25Apr2025 23:20:57.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> XD
+[25Apr2025 23:21:25.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 was slain by The Dead King
+[25Apr2025 23:21:25.039] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Torig10 with unique ID travelersbackpack.fox_25.04.2025-23.21.25.dat
+[25Apr2025 23:21:25.072] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[25Apr2025 23:21:32.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was slain by Husk
+[25Apr2025 23:21:32.633] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for o8h_msmc_jw5 with unique ID travelersbackpack.standard_25.04.2025-23.21.32.dat
+[25Apr2025 23:21:32.642] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[25Apr2025 23:21:32.726] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[25Apr2025 23:21:32.726] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[25Apr2025 23:21:32.727] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[25Apr2025 23:21:32.727] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[25Apr2025 23:21:32.727] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[25Apr2025 23:21:43.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> a
+[25Apr2025 23:21:46.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> a
+[25Apr2025 23:21:57.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Torig10 moved too quickly! 9.737847340688404,2.614259275064242,-0.9515413154239161
+[25Apr2025 23:22:01.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Torig10 was kicked for floating too long!
+[25Apr2025 23:22:01.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Torig10 lost connection: Flying is not enabled on this server
+[25Apr2025 23:22:01.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 left the game
+[25Apr2025 23:22:01.797] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Torig10
+[25Apr2025 23:22:10.560] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2cdabc40[id=<null>,name=Torig10,properties={},legacy=false] (/127.97.212.53:40453) lost connection: Disconnected
+[25Apr2025 23:22:19.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tfue1nfiel[/127.56.64.18:47469] logged in with entity id 17715 at (-4.5, 64.0, -0.5)
+[25Apr2025 23:22:19.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tfue1nfiel joined the game
+[25Apr2025 23:22:19.640] [Server thread/INFO] [Jade/]: Syncing config to Tfue1nfiel (1ad481f7-2b35-39d2-a0f2-50e6e9d228cd)
+[25Apr2025 23:22:21.803] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tfue1nfiel (18)
+[25Apr2025 23:22:21.803] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tfue1nfiel
+[25Apr2025 23:22:31.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> qfuetfue
+[25Apr2025 23:22:40.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Torig10[/127.97.212.53:50337] logged in with entity id 17919 at (2412.018964404166, 73.25220334025373, 5.739552998906306)
+[25Apr2025 23:22:41.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 joined the game
+[25Apr2025 23:22:41.036] [Server thread/INFO] [Jade/]: Syncing config to Torig10 (efdca156-5ed8-384c-860e-49963310e251)
+[25Apr2025 23:22:41.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tfue1nfiel> calla kachera
+[25Apr2025 23:22:42.238] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Torig10 (18)
+[25Apr2025 23:22:42.239] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Torig10
+[25Apr2025 23:22:54.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[25Apr2025 23:23:16.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7537ms or 150 ticks behind
+[25Apr2025 23:23:17.279] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[25Apr2025 23:23:17.279] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[25Apr2025 23:23:34.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2904ms or 58 ticks behind
+[25Apr2025 23:23:44.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 was slain by The Dead King
+[25Apr2025 23:23:44.066] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Torig10 with unique ID travelersbackpack.fox_25.04.2025-23.23.44.dat
+[25Apr2025 23:23:44.090] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[25Apr2025 23:23:52.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3020ms or 60 ticks behind
+[25Apr2025 23:23:56.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tfue1nfiel was shot by Skeleton
+[25Apr2025 23:23:56.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tfue1nfiel has made the advancement [Your First Grave]
+[25Apr2025 23:23:56.998] [Server thread/INFO] [tombstone/]: The player Tfue1nfiel has successfully been saved
+[25Apr2025 23:24:00.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> que hacesssssssss
+[25Apr2025 23:24:04.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 was slain by The Dead King
+[25Apr2025 23:24:04.661] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Torig10 with unique ID travelersbackpack.fox_25.04.2025-23.24.04.dat
+[25Apr2025 23:24:04.688] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[25Apr2025 23:24:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> margarita se escapa tu ganado
+[25Apr2025 23:24:11.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[25Apr2025 23:24:12.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tfue1nfiel> oe
+[25Apr2025 23:24:14.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> tu que les pegas oe
+[25Apr2025 23:24:14.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tfue1nfiel> akakaly
+[25Apr2025 23:24:15.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> te vi
+[25Apr2025 23:24:15.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tfue1nfiel> ven a ds
+[25Apr2025 23:24:18.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tfue1nfiel> one moment
+[25Apr2025 23:24:25.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> yavoy
+[25Apr2025 23:24:30.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3183ms or 63 ticks behind
+[25Apr2025 23:24:43.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=67, z=12}
+[25Apr2025 23:24:45.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=67, z=12}
+[25Apr2025 23:24:46.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=67, z=12}
+[25Apr2025 23:24:46.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=68, z=12}
+[25Apr2025 23:24:48.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3131ms or 62 ticks behind
+[25Apr2025 23:25:08.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5127ms or 102 ticks behind
+[25Apr2025 23:25:30.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7378ms or 147 ticks behind
+[25Apr2025 23:25:42.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tfue1nfiel burned to death
+[25Apr2025 23:25:42.297] [Server thread/INFO] [tombstone/]: The player Tfue1nfiel has successfully been saved
+[25Apr2025 23:25:43.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tfue1nfiel has made the advancement [The Most Useful Key]
+[25Apr2025 23:25:50.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElAkakali lost connection: Disconnected
+[25Apr2025 23:25:50.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali left the game
+[25Apr2025 23:25:50.024] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElAkakali
+[25Apr2025 23:25:58.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12703ms or 254 ticks behind
+[25Apr2025 23:26:00.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tfue1nfiel has made the advancement [Alex's Mobs]
+[25Apr2025 23:26:16.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3289ms or 65 ticks behind
+[25Apr2025 23:26:35.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3617ms or 72 ticks behind
+[25Apr2025 23:26:58.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8729ms or 174 ticks behind
+[25Apr2025 23:27:16.118] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: MinecartChest['Minecart with Chest'/25721, l='ServerLevel[world]', x=-2997.50, y=-12.50, z=-1018.50]
+[25Apr2025 23:27:16.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cronotermio moved too quickly! -8.415084141100124,0.0,6.186855127452191
+[25Apr2025 23:27:16.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Edlynne1 moved too quickly! 0.5085021847868347,0.14744486600120865,10.282431329906103
+[25Apr2025 23:27:23.799] [Worker-Main-39/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[25Apr2025 23:27:27.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14065ms or 281 ticks behind
+[25Apr2025 23:27:48.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5439ms or 108 ticks behind
+[25Apr2025 23:28:07.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cronotermio moved too quickly! -6.900644720031323,-2.334478782276719,7.510616533077268
+[25Apr2025 23:28:14.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11306ms or 226 ticks behind
+[25Apr2025 23:28:16.130] [Worker-Main-10/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[25Apr2025 23:28:19.966] [Worker-Main-40/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[25Apr2025 23:28:42.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cronotermio moved too quickly! 8.619599462634142,-0.423642848190255,5.21518693030248
+[25Apr2025 23:28:42.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Torig10 moved too quickly! -0.8503154487038955,2.154652531265196,-9.814979958205328
+[25Apr2025 23:28:42.924] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bird['Sparrow'/27241, l='ServerLevel[world]', x=-3029.00, y=68.00, z=-548.00]
+[25Apr2025 23:28:42.925] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bird['Sparrow'/27242, l='ServerLevel[world]', x=-3033.00, y=68.00, z=-546.00]
+[25Apr2025 23:28:42.925] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bird['Sparrow'/27243, l='ServerLevel[world]', x=-3032.00, y=68.00, z=-549.00]
+[25Apr2025 23:28:45.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15850ms or 317 ticks behind
+[25Apr2025 23:28:56.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has completed the challenge [Premium!]
+[25Apr2025 23:29:06.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5727ms or 114 ticks behind
+[25Apr2025 23:29:30.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8984ms or 179 ticks behind
+[25Apr2025 23:29:54.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9310ms or 186 ticks behind
+[25Apr2025 23:30:23.360] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: MimicEntity['Mimic'/29402, l='ServerLevel[world]', x=-3556.50, y=-43.50, z=-384.50]
+[25Apr2025 23:30:23.360] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: MimicEntity['Mimic'/29403, l='ServerLevel[world]', x=-3565.50, y=-52.50, z=-390.50]
+[25Apr2025 23:30:26.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tfue1nfiel moved too quickly! 9.203485220100939,-2.7499362449735543,3.2460236111561045
+[25Apr2025 23:30:26.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cronotermio moved too quickly! -6.499164984767049,2.4647180664149246,7.399725476051685
+[25Apr2025 23:30:27.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17901ms or 358 ticks behind
+[25Apr2025 23:30:33.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cronotermio moved too quickly! -10.712060860758811,-1.5518122248986685,-3.159376209014397
+[25Apr2025 23:30:33.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tfue1nfiel moved too quickly! 9.422035241916998,0.8787031594607981,-4.089198941142911
+[25Apr2025 23:30:33.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Torig10 moved too quickly! -10.122356079948077,1.3421023691365228,0.3074057617097097
+[25Apr2025 23:30:46.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tfue1nfiel moved too quickly! 6.9379888302699655,-1.252203340253729,-7.5084949930708405
+[25Apr2025 23:30:46.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Torig10 moved too quickly! -10.235761855439705,1.410309162399603,0.007048214494169258
+[25Apr2025 23:30:47.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cronotermio moved too quickly! -1.021759871048289,-0.14501600067615072,-10.011419073232673
+[25Apr2025 23:30:51.706] [ForkJoinPool.commonPool-worker-15/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[25Apr2025 23:30:51.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElAkakali[/127.85.67.227:43427] logged in with entity id 29633 at (-563.5113462935022, 95.0, -1135.8285845834268)
+[25Apr2025 23:30:51.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali joined the game
+[25Apr2025 23:30:51.903] [Server thread/INFO] [Jade/]: Syncing config to ElAkakali (c3be4512-043b-3a98-8589-7936244c6859)
+[25Apr2025 23:30:53.097] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElAkakali (18)
+[25Apr2025 23:30:53.098] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElAkakali
+[25Apr2025 23:31:16.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33835ms or 676 ticks behind

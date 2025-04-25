@@ -1515,6 +1515,7 @@
       "minecraft:creeper": "2025-04-25 19:36:48 +0000",
       "minecraft:witch": "2025-04-25 06:28:03 +0000",
       "minecraft:zombie": "2025-04-25 05:45:55 +0000",
+      "minecraft:drowned": "2025-04-25 23:27:25 +0000",
       "minecraft:zombie_villager": "2025-04-25 05:41:29 +0000"
     },
     "done": false
@@ -2944,6 +2945,24 @@
   "tconstruct:world/sky_island": {
     "criteria": {
       "found_island": "2025-04-25 22:15:15 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-04-25 23:16:59 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-04-25 23:16:59 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-04-25 23:16:59 +0000"
     },
     "done": true
   },
