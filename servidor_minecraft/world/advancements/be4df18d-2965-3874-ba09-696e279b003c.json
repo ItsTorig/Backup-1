@@ -2845,12 +2845,6 @@
     },
     "done": true
   },
-  "tconstruct:world/sky_island": {
-    "criteria": {
-      "found_island": "2025-04-25 22:15:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-04-25 21:59:50 +0000"
@@ -2944,6 +2938,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-25 21:59:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-04-25 22:15:15 +0000"
     },
     "done": true
   },

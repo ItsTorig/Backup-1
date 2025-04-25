@@ -1248,3 +1248,107 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 22:58:41.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 was slain by Zombie
 [25Apr2025 22:58:41.524] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Torig10 with unique ID travelersbackpack.fox_25.04.2025-22.58.41.dat
 [25Apr2025 22:58:41.565] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[25Apr2025 23:00:53.760] [ForkJoinPool.commonPool-worker-8/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[25Apr2025 23:00:53.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElAkakali[/127.85.67.227:44755] logged in with entity id 6370 at (-628.0821538235948, 61.97147921022221, -1237.7040659822355)
+[25Apr2025 23:00:53.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali joined the game
+[25Apr2025 23:00:53.926] [Server thread/INFO] [Jade/]: Syncing config to ElAkakali (c3be4512-043b-3a98-8589-7936244c6859)
+[25Apr2025 23:00:55.360] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElAkakali (18)
+[25Apr2025 23:00:55.360] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElAkakali
+[25Apr2025 23:01:20.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> tevoyamatar
+[25Apr2025 23:01:24.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> asu
+[25Apr2025 23:01:25.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> asi son
+[25Apr2025 23:01:26.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> ds
+[25Apr2025 23:01:31.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> quefue
+[25Apr2025 23:03:26.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> oal
+[25Apr2025 23:03:34.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> ola
+[25Apr2025 23:03:36.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> TORI EL MICROOO
+[25Apr2025 23:03:50.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> no puedo hablar torig
+[25Apr2025 23:03:51.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> no funciona?
+[25Apr2025 23:03:53.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> nom
+[25Apr2025 23:03:53.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> no
+[25Apr2025 23:04:01.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> aparece un enchufe lit
+[25Apr2025 23:04:07.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> ci
+[25Apr2025 23:04:27.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> viva el syda
+[25Apr2025 23:04:32.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> wa
+[25Apr2025 23:04:38.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> tmr
+[25Apr2025 23:04:42.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> ya despues lo veo
+[25Apr2025 23:05:19.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> guatefoc tengo tomates
+[25Apr2025 23:05:19.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> tevoyamatar
+[25Apr2025 23:05:31.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> asison
+[25Apr2025 23:05:34.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Crops of the Wild]
+[25Apr2025 23:06:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> cerdo
+[25Apr2025 23:06:27.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> presten roca v:
+[25Apr2025 23:06:30.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> adios muchachos me voy a la chambing (ir a minar y morir 10 veces)
+[25Apr2025 23:06:35.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> oing
+[25Apr2025 23:06:38.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Torig10 moved wrongly!
+[25Apr2025 23:06:49.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> gracias
+[25Apr2025 23:06:54.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> son 10 peso
+[25Apr2025 23:07:16.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> no tengo sencillo
+[25Apr2025 23:07:28.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> pero como eres kkli
+[25Apr2025 23:07:32.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> 0 peso
+[25Apr2025 23:07:48.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> quebuena
+[25Apr2025 23:07:49.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> mejor pagame
+[25Apr2025 23:07:59.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> ok te debo
+[25Apr2025 23:08:01.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> :(
+[25Apr2025 23:08:13.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> me debes un muchi
+[25Apr2025 23:08:15.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> michi
+[25Apr2025 23:12:56.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cronotermio[/127.86.58.23:52991] logged in with entity id 10366 at (-2070.4363711071373, 97.55181222489867, -1637.6142411568542)
+[25Apr2025 23:12:56.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio joined the game
+[25Apr2025 23:12:56.648] [Server thread/INFO] [Jade/]: Syncing config to Cronotermio (be4df18d-2965-3874-ba09-696e279b003c)
+[25Apr2025 23:12:56.896] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Cronotermio (18)
+[25Apr2025 23:12:56.898] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Cronotermio
+[25Apr2025 23:12:57.742] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/10427, l='ServerLevel[world]', x=-1944.12, y=87.60, z=-1600.45]
+[25Apr2025 23:12:57.742] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/10428, l='ServerLevel[world]', x=-1944.98, y=87.98, z=-1601.37]
+[25Apr2025 23:13:05.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> te odio cromo
+[25Apr2025 23:13:13.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> xd
+[25Apr2025 23:13:19.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cronotermio> ?
+[25Apr2025 23:13:25.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cronotermio> :U
+[25Apr2025 23:13:29.520] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityBlueJay['Blue Jay'/10864, l='ServerLevel[world]', x=-1895.43, y=110.00, z=-1534.54]
+[25Apr2025 23:13:29.520] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityBlueJay['Blue Jay'/10865, l='ServerLevel[world]', x=-1896.72, y=111.00, z=-1529.74]
+[25Apr2025 23:13:36.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> °<°
+[25Apr2025 23:13:38.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Apr2025 23:13:42.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> te salude temprano y me ignoraste
+[25Apr2025 23:13:51.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> es porque soy marron, verdad?
+[25Apr2025 23:13:53.230] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[25Apr2025 23:13:53.231] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[25Apr2025 23:13:53.231] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[25Apr2025 23:13:57.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4380ms or 87 ticks behind
+[25Apr2025 23:14:10.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Torig10 moved too quickly! 1.5056538576359344,1.2953759672317506,-10.158506338209051
+[25Apr2025 23:14:17.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4825ms or 96 ticks behind
+[25Apr2025 23:14:21.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cronotermio> tambien
+[25Apr2025 23:14:25.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cronotermio> pero si salude xd
+[25Apr2025 23:14:33.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> te voy a funar
+[25Apr2025 23:14:45.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[25Apr2025 23:15:03.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3088ms or 61 ticks behind
+[25Apr2025 23:15:30.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cronotermio> no hay funa si no hay evidencia
+[25Apr2025 23:15:45.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> @torig xd
+[25Apr2025 23:15:48.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> quje paso
+[25Apr2025 23:16:00.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> el no hay funa si no hay evidencia
+[25Apr2025 23:16:59.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has reached the goal [Quaint Scribe]
+[25Apr2025 23:17:24.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Spectator Mode]
+[25Apr2025 23:17:24.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[25Apr2025 23:17:44.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[25Apr2025 23:17:59.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> EL DIAVLO
+[25Apr2025 23:18:00.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Survival Mode]
+[25Apr2025 23:18:02.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> EL WARDEN
+[25Apr2025 23:18:03.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4638ms or 92 ticks behind
+[25Apr2025 23:18:21.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> matalo
+[25Apr2025 23:18:27.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> me da uwu
+[25Apr2025 23:19:47.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cronotermio> jerry, estas en clases?
+[25Apr2025 23:19:59.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[25Apr2025 23:20:01.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> nom
+[25Apr2025 23:20:10.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> tenia q salir pero se canceló asi que aquitoy
+[25Apr2025 23:20:11.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> en mc
+[25Apr2025 23:20:11.365] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: PriestEntity['Priest'/16062, l='ServerLevel[world]', x=-2630.54, y=71.00, z=-1303.46]
+[25Apr2025 23:20:17.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cronotermio> xd
+[25Apr2025 23:20:21.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7267ms or 145 ticks behind
+[25Apr2025 23:20:22.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> yo tambien tenia q salir
+[25Apr2025 23:20:24.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cronotermio> go dc?
+[25Apr2025 23:20:32.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> pero aqui andamos
+[25Apr2025 23:20:38.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2326ms or 46 ticks behind
+[25Apr2025 23:20:42.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> yo nunca salgo v:
+[25Apr2025 23:20:49.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 was slain by The Dead King
+[25Apr2025 23:20:49.562] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Torig10 with unique ID travelersbackpack.fox_25.04.2025-23.20.49.dat
+[25Apr2025 23:20:49.601] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[25Apr2025 23:20:55.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[25Apr2025 23:20:57.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> XD
