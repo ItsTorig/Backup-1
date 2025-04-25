@@ -1421,3 +1421,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 19:21:25.747] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for o8h_msmc_jw5 with unique ID travelersbackpack.standard_25.04.2025-19.21.25.dat
 [25Apr2025 19:21:25.758] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
 [25Apr2025 19:22:57.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [How long's this been here?]
+[25Apr2025 19:24:24.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was shot by Skeleton
+[25Apr2025 19:24:24.224] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for o8h_msmc_jw5 with unique ID travelersbackpack.standard_25.04.2025-19.24.24.dat
+[25Apr2025 19:24:24.231] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[25Apr2025 19:24:32.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Magic Writing]
+[25Apr2025 19:28:37.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [Tools of the Trade]
+[25Apr2025 19:30:24.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [Chompy]
+[25Apr2025 19:30:26.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1277, y=63, z=-2475} BlockPos{x=-1278, y=62, z=-2476}
+[25Apr2025 19:30:28.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has reached the goal [Strong or Careful]
+[25Apr2025 19:30:28.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio was slain by Crocodile
+[25Apr2025 19:30:28.899] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cronotermio with unique ID travelersbackpack.horse_25.04.2025-19.30.28.dat
+[25Apr2025 19:30:28.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [Your First Grave]
+[25Apr2025 19:30:28.932] [Server thread/INFO] [tombstone/]: The player Cronotermio has successfully been saved
+[25Apr2025 19:30:40.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has reached the goal [A Fast Comeback]
+[25Apr2025 19:30:45.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has reached the goal [Here They Come]
+[25Apr2025 19:30:46.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [Far From Perfect]
+[25Apr2025 19:33:11.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> te deja hablar por el micro?
+[25Apr2025 19:33:16.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> no
+[25Apr2025 19:33:20.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> TORIIIIIIIIIIIIIII
+[25Apr2025 19:33:20.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> se a bugeado
+[25Apr2025 19:33:23.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> xd
