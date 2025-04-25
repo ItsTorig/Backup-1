@@ -1247,3 +1247,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 17:55:34.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was slain by Zombie
 [25Apr2025 17:55:34.600] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_25.04.2025-17.55.34.dat
 [25Apr2025 17:55:34.618] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[25Apr2025 18:10:28.392] [ForkJoinPool.commonPool-worker-7/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[25Apr2025 18:10:28.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElAkakali[/127.85.67.227:59897] logged in with entity id 13816 at (-607.7224736752795, 95.0, -1134.9862428448578)
+[25Apr2025 18:10:28.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali joined the game
+[25Apr2025 18:10:28.502] [Server thread/INFO] [Jade/]: Syncing config to ElAkakali (c3be4512-043b-3a98-8589-7936244c6859)
+[25Apr2025 18:10:30.644] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElAkakali (18)
+[25Apr2025 18:10:30.644] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElAkakali
+[25Apr2025 18:11:19.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> ola
+[25Apr2025 18:11:31.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_BandoWasHere_> a q hora te vas
+[25Apr2025 18:11:51.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> tamare
+[25Apr2025 18:12:10.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was shot by Skeleton
+[25Apr2025 18:12:10.058] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_25.04.2025-18.12.10.dat
+[25Apr2025 18:12:10.067] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[25Apr2025 18:12:10.182] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[25Apr2025 18:12:10.182] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[25Apr2025 18:12:10.183] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[25Apr2025 18:12:10.183] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[25Apr2025 18:12:10.184] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
