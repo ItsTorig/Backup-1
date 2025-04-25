@@ -7024,6 +7024,12 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "green": "2025-04-25 18:46:31 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-04-25 17:54:10 +0000"

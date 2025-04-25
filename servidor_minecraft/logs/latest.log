@@ -1296,3 +1296,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 18:31:08.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was shot by Skeleton
 [25Apr2025 18:31:08.718] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_25.04.2025-18.31.08.dat
 [25Apr2025 18:31:08.734] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[25Apr2025 18:47:12.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was slain by Zombie
+[25Apr2025 18:47:12.151] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for o8h_msmc_jw5 with unique ID travelersbackpack.standard_25.04.2025-18.47.12.dat
+[25Apr2025 18:47:12.187] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[25Apr2025 18:47:12.240] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[25Apr2025 18:47:12.240] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[25Apr2025 18:47:12.241] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[25Apr2025 18:47:12.241] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[25Apr2025 18:47:12.241] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[25Apr2025 18:50:48.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was slain by Cave Spider
+[25Apr2025 18:50:48.521] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for o8h_msmc_jw5 with unique ID travelersbackpack.standard_25.04.2025-18.50.48.dat
+[25Apr2025 18:50:48.530] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[25Apr2025 18:52:26.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cronotermio[/127.86.58.23:33537] logged in with entity id 269484 at (-764.4879580414071, 73.0, -2408.7155041816454)
+[25Apr2025 18:52:26.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio joined the game
+[25Apr2025 18:52:26.869] [Server thread/INFO] [Jade/]: Syncing config to Cronotermio (be4df18d-2965-3874-ba09-696e279b003c)
+[25Apr2025 18:52:28.577] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Cronotermio (18)
+[25Apr2025 18:52:28.577] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Cronotermio
