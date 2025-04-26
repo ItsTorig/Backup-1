@@ -1858,6 +1858,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-24 21:01:35 +0000",
       "minecraft:skeleton": "2025-04-24 02:46:35 +0000",
+      "minecraft:ravager": "2025-04-26 15:43:57 +0000",
       "minecraft:vindicator": "2025-04-24 20:50:58 +0000",
       "minecraft:spider": "2025-04-24 04:32:49 +0000",
       "minecraft:creeper": "2025-04-24 20:20:00 +0000",
@@ -5536,6 +5537,18 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-26 15:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-26 15:46:27 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-04-26 15:43:47 +0000"
     },
     "done": true
   },

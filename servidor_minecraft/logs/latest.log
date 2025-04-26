@@ -1371,3 +1371,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Apr2025 15:41:43.216] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
 [26Apr2025 15:41:46.645] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [26Apr2025 15:41:46.645] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[26Apr2025 15:43:01.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has reached the goal [Postmortal]
+[26Apr2025 15:43:01.817] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[26Apr2025 15:43:35.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 was slain by Vex
+[26Apr2025 15:43:35.824] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Clearson06 with unique ID travelersbackpack.blaze_26.04.2025-15.43.35.dat
+[26Apr2025 15:43:35.833] [Server thread/INFO] [tombstone/]: The player Clearson06 has successfully been saved
+[26Apr2025 15:43:47.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 was slain by Vindicator
+[26Apr2025 15:43:47.114] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Torig10 with unique ID travelersbackpack.fox_26.04.2025-15.43.47.dat
+[26Apr2025 15:43:47.134] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[26Apr2025 15:43:47.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 has made the advancement [Magery]
+[26Apr2025 15:44:09.114] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[26Apr2025 15:44:17.150] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/13675, l='ServerLevel[world]', x=-367.88, y=63.00, z=1090.68] died, message: 'Fisherman was chopped to bits by Skirmisher'
+[26Apr2025 15:44:24.400] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/13681, l='ServerLevel[world]', x=-372.38, y=64.77, z=1086.36] died, message: 'Farmer was chopped to bits by Skirmisher'
+[26Apr2025 15:44:33.100] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/13676, l='ServerLevel[world]', x=-382.50, y=64.02, z=1073.17] died, message: 'Fisherman was chopped to bits by Skirmisher'
+[26Apr2025 15:44:50.047] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/13751, l='ServerLevel[world]', x=-350.12, y=70.00, z=1027.56] died, message: 'Fletcher was killed by magic'
+[26Apr2025 15:46:16.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 was slain by Inquisitor
+[26Apr2025 15:46:16.210] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Torig10 with unique ID travelersbackpack.fox_26.04.2025-15.46.16.dat
+[26Apr2025 15:46:16.223] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[26Apr2025 15:46:27.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has completed the challenge [Hero of the Village]
+[26Apr2025 15:46:27.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 has completed the challenge [Hero of the Village]
+[26Apr2025 15:46:31.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> al ffin
+[26Apr2025 15:46:52.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> y q se supone
+[26Apr2025 15:46:53.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> que mrd
+[26Apr2025 15:46:59.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> q haga con ese logro
+[26Apr2025 15:47:12.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> ese logro hace que los trades sean mas baratos
+[26Apr2025 15:47:15.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> con los aldeanos
+[26Apr2025 15:47:23.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> pero con el sombrero ya es mas barato
+[26Apr2025 15:47:29.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> pues aun mas
+[26Apr2025 15:47:34.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> gratis
+[26Apr2025 15:47:46.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> una esmeralda lo maximo
+[26Apr2025 15:52:21.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clearson06 moved too quickly! 0.5417425806080587,-0.26663811616295874,10.37999905112656

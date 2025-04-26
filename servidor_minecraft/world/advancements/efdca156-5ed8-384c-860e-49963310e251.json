@@ -7475,5 +7475,65 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-04-26 15:51:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-04-26 15:51:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-04-26 15:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-26 15:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-04-26 15:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-04-26 15:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-04-26 15:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-26 15:46:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-04-26 15:51:38 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2025-04-26 15:51:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
