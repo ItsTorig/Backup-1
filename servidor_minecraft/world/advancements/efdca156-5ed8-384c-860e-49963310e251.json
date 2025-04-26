@@ -7445,6 +7445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-04-26 14:44:12 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_disenchantment": {
     "criteria": {
       "coded_trigger": "2025-04-26 14:19:12 +0000"
