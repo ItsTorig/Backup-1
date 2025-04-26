@@ -5521,6 +5521,12 @@
     },
     "done": true
   },
+  "simplyswords:twisted_blade": {
+    "criteria": {
+      "requirement": "2025-04-26 05:32:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2025-04-26 05:20:48 +0000"

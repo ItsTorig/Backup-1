@@ -76,6 +76,7 @@
       "silver_birch_forest": "2025-04-24 05:16:11 +0000",
       "shrubland": "2025-04-24 03:12:21 +0000",
       "fen": "2025-04-24 03:57:48 +0000",
+      "pine_taiga": "2025-04-26 05:23:41 +0000",
       "bayou": "2025-04-24 03:22:27 +0000",
       "autumnal_maple_forest": "2025-04-24 04:45:45 +0000",
       "muddy_river": "2025-04-24 04:45:56 +0000",
@@ -85,7 +86,8 @@
       "boreal_forest": "2025-04-24 04:52:22 +0000",
       "towering_cliffs": "2025-04-24 03:16:51 +0000",
       "temperate_grove": "2025-04-24 03:27:58 +0000",
-      "cold_river": "2025-04-24 05:12:36 +0000"
+      "cold_river": "2025-04-24 05:12:36 +0000",
+      "pine_slopes": "2025-04-26 05:22:43 +0000"
     },
     "done": false
   },
@@ -94,6 +96,7 @@
       "silver_birch_forest": "2025-04-24 05:16:11 +0000",
       "shrubland": "2025-04-24 03:12:21 +0000",
       "fen": "2025-04-24 03:57:48 +0000",
+      "pine_taiga": "2025-04-26 05:23:41 +0000",
       "bayou": "2025-04-24 03:22:27 +0000",
       "autumnal_maple_forest": "2025-04-24 04:45:45 +0000",
       "muddy_river": "2025-04-24 04:45:56 +0000",
@@ -102,7 +105,8 @@
       "boreal_forest": "2025-04-24 04:52:22 +0000",
       "towering_cliffs": "2025-04-24 03:16:51 +0000",
       "temperate_grove": "2025-04-24 03:27:58 +0000",
-      "cold_river": "2025-04-24 05:12:36 +0000"
+      "cold_river": "2025-04-24 05:12:36 +0000",
+      "pine_slopes": "2025-04-26 05:22:43 +0000"
     },
     "done": false
   },
@@ -1126,6 +1130,7 @@
     "criteria": {
       "minecraft:taiga": "2025-04-24 04:54:06 +0000",
       "minecraft:cherry_grove": "2025-04-25 03:51:02 +0000",
+      "minecraft:birch_forest": "2025-04-26 05:24:07 +0000",
       "minecraft:savanna_plateau": "2025-04-25 03:50:20 +0000",
       "minecraft:river": "2025-04-24 03:33:08 +0000",
       "minecraft:dripstone_caves": "2025-04-24 05:21:30 +0000",
@@ -3497,7 +3502,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-04-25 04:18:47 +0000",
-      "minecraft:sheep": "2025-04-26 00:10:35 +0000"
+      "minecraft:sheep": "2025-04-26 00:10:35 +0000",
+      "minecraft:chicken": "2025-04-26 05:33:27 +0000"
     },
     "done": false
   },
