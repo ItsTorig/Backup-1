@@ -7426,6 +7426,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_shovel_repairing": {
+    "criteria": {
+      "has_golden_shovel": "2025-04-26 04:12:12 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/maple_sapling_from_maple_shrub": {
     "criteria": {
       "has_maple_shrub": "2025-04-26 02:33:11 +0000"
