@@ -1659,6 +1659,7 @@
       "minecraft:river": "2025-04-24 02:45:20 +0000",
       "minecraft:lukewarm_ocean": "2025-04-24 20:25:01 +0000",
       "minecraft:stony_shore": "2025-04-24 23:16:46 +0000",
+      "minecraft:cold_ocean": "2025-04-26 02:40:47 +0000",
       "minecraft:forest": "2025-04-24 18:59:50 +0000",
       "minecraft:jungle": "2025-04-24 20:26:47 +0000",
       "minecraft:ocean": "2025-04-24 18:34:10 +0000",
@@ -1857,6 +1858,7 @@
       "minecraft:spider": "2025-04-24 04:32:49 +0000",
       "minecraft:creeper": "2025-04-24 20:20:00 +0000",
       "minecraft:evoker": "2025-04-25 00:53:53 +0000",
+      "minecraft:phantom": "2025-04-26 02:38:27 +0000",
       "minecraft:witch": "2025-04-25 05:30:03 +0000",
       "minecraft:enderman": "2025-04-24 20:27:59 +0000",
       "minecraft:vex": "2025-04-25 00:53:52 +0000",
@@ -5224,6 +5226,12 @@
       "has_obsidian": "2025-04-26 01:56:35 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-04-26 02:38:27 +0000"
+    },
+    "done": false
   },
   "aether:recipes/tools/diamond_axe_repairing": {
     "criteria": {

@@ -599,6 +599,7 @@
       "minecraft:creeper": "2025-04-24 22:53:09 +0000",
       "minecraft:slime": "2025-04-24 22:48:54 +0000",
       "minecraft:evoker": "2025-04-25 02:11:31 +0000",
+      "minecraft:phantom": "2025-04-26 02:35:30 +0000",
       "minecraft:witch": "2025-04-24 04:53:53 +0000",
       "minecraft:husk": "2025-04-24 22:26:33 +0000",
       "minecraft:cave_spider": "2025-04-24 18:42:38 +0000",
@@ -607,6 +608,7 @@
       "minecraft:enderman": "2025-04-25 19:04:28 +0000",
       "minecraft:vex": "2025-04-25 01:58:07 +0000",
       "minecraft:zombie": "2025-04-24 03:45:51 +0000",
+      "minecraft:drowned": "2025-04-26 02:39:02 +0000",
       "minecraft:zombie_villager": "2025-04-25 17:58:48 +0000"
     },
     "done": false
@@ -7338,6 +7340,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-26 02:35:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-04-26 02:01:42 +0000"
@@ -7355,6 +7363,12 @@
       "has_flint": "2025-04-26 02:01:42 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-04-26 02:35:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {

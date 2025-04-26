@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/willow_button": {
+    "criteria": {
+      "has_willow_planks": "2025-04-26 02:44:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-04-26 02:29:06 +0000"
@@ -293,6 +299,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-04-26 02:44:12 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-26 02:29:06 +0000"
@@ -341,6 +353,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-04-26 02:44:12 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wolf_trophy": {
     "criteria": {
       "has_wolf_trophy": "2025-04-26 02:24:33 +0000"
@@ -362,6 +380,12 @@
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-04-26 02:30:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_door": {
+    "criteria": {
+      "has_willow_planks": "2025-04-26 02:44:16 +0000"
     },
     "done": true
   },
@@ -392,6 +416,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-04-26 02:26:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-04-26 02:44:12 +0000"
     },
     "done": true
   },
@@ -645,6 +675,18 @@
     },
     "done": false
   },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-04-26 02:44:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_slab": {
+    "criteria": {
+      "has_willow_planks": "2025-04-26 02:44:16 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/skeleton_horse_trophy": {
     "criteria": {
       "has_skeleton_horse_trophy": "2025-04-26 02:24:33 +0000"
@@ -771,6 +813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-26 02:44:12 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_pickaxe_repairing": {
     "criteria": {
       "has_wooden_pickaxe": "2025-04-26 02:25:26 +0000"
@@ -783,6 +831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-26 02:44:12 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/salmon_trophy": {
     "criteria": {
       "has_salmon_trophy": "2025-04-26 02:24:33 +0000"
@@ -792,6 +846,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-04-26 02:24:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-26 02:44:08 +0000"
     },
     "done": true
   },
@@ -816,6 +876,12 @@
   "regions_unexplored:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-04-26 02:27:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_trapdoor": {
+    "criteria": {
+      "has_willow_planks": "2025-04-26 02:44:16 +0000"
     },
     "done": true
   },
@@ -927,6 +993,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-26 02:44:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-04-26 02:24:33 +0000"
@@ -999,9 +1071,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/willow_sign": {
+    "criteria": {
+      "has_willow_planks": "2025-04-26 02:44:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_fence_gate": {
+    "criteria": {
+      "has_willow_planks": "2025-04-26 02:44:16 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-26 02:24:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_willow": {
+    "criteria": {
+      "has_item": "2025-04-26 02:44:16 +0000"
     },
     "done": true
   },
@@ -1014,6 +1104,18 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-26 02:29:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-04-26 02:44:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_pressure_plate": {
+    "criteria": {
+      "has_willow_planks": "2025-04-26 02:44:16 +0000"
     },
     "done": true
   },
@@ -1107,6 +1209,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/willow_fence": {
+    "criteria": {
+      "has_willow_planks": "2025-04-26 02:44:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-04-26 02:30:51 +0000"
@@ -1170,6 +1278,12 @@
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-04-26 02:24:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_stairs": {
+    "criteria": {
+      "has_willow_planks": "2025-04-26 02:44:16 +0000"
     },
     "done": true
   },
