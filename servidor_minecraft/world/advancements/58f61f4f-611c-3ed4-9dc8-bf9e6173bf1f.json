@@ -3507,5 +3507,11 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-26 01:08:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

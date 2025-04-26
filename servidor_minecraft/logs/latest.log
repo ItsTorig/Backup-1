@@ -228,3 +228,162 @@
 [26Apr2025 00:51:58.552] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Joan the Boring'/192888, l='ServerLevel[world]', x=-798.49, y=-45.00, z=-1319.67] died: Joan the Boring was slain by Spectral Wolf
 [26Apr2025 00:52:23.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tfue1nfiel has completed the challenge [He Wasn't So Strong]
 [26Apr2025 00:53:48.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/192505, l='ServerLevel[world]', x=-800.65, y=73.25, z=-1263.56] died: Honeyed Archer suffocated in a wall
+[26Apr2025 00:54:18.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[26Apr2025 00:54:38.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4843ms or 96 ticks behind
+[26Apr2025 00:54:57.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4867ms or 97 ticks behind
+[26Apr2025 00:55:05.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tfue1nfiel has made the advancement [Ambush]
+[26Apr2025 00:55:18.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5803ms or 116 ticks behind
+[26Apr2025 00:55:39.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5352ms or 107 ticks behind
+[26Apr2025 00:55:59.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5340ms or 106 ticks behind
+[26Apr2025 00:56:00.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=89, z=-1167} BlockPos{x=-538, y=87, z=-1167}
+[26Apr2025 00:56:00.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-538, y=89, z=-1168} BlockPos{x=-537, y=87, z=-1167}
+[26Apr2025 00:56:01.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-538, y=89, z=-1168} BlockPos{x=-537, y=87, z=-1167}
+[26Apr2025 00:56:01.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-537, y=89, z=-1167} BlockPos{x=-538, y=87, z=-1166}
+[26Apr2025 00:56:01.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-537, y=89, z=-1167} BlockPos{x=-538, y=87, z=-1166}
+[26Apr2025 00:56:02.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tfue1nfiel was shot by Pillager
+[26Apr2025 00:56:02.964] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Tfue1nfiel with unique ID travelersbackpack.iron_26.04.2025-00.56.02.dat
+[26Apr2025 00:56:02.972] [Server thread/INFO] [tombstone/]: The player Tfue1nfiel has successfully been saved
+[26Apr2025 00:56:18.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tfue1nfiel has made the advancement [Isn't It Iron Pick]
+[26Apr2025 00:57:04.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-537, y=89, z=-1170} BlockPos{x=-538, y=87, z=-1171}
+[26Apr2025 00:57:04.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-539, y=89, z=-1169} BlockPos{x=-540, y=87, z=-1170}
+[26Apr2025 00:57:04.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-539, y=89, z=-1169} BlockPos{x=-540, y=87, z=-1170}
+[26Apr2025 00:57:05.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=89, z=-1169} BlockPos{x=-541, y=87, z=-1169}
+[26Apr2025 00:57:05.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-539, y=89, z=-1168} BlockPos{x=-541, y=87, z=-1169}
+[26Apr2025 00:57:05.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=89, z=-1168} BlockPos{x=-541, y=87, z=-1169}
+[26Apr2025 00:57:05.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=89, z=-1168} BlockPos{x=-541, y=87, z=-1169}
+[26Apr2025 00:57:05.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=89, z=-1168} BlockPos{x=-541, y=87, z=-1169}
+[26Apr2025 01:00:06.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali was slain by Dame Sean the Toasty
+[26Apr2025 01:00:06.074] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElAkakali with unique ID travelersbackpack.enderman_26.04.2025-01.00.06.dat
+[26Apr2025 01:00:06.082] [Server thread/INFO] [tombstone/]: The player ElAkakali has successfully been saved
+[26Apr2025 01:00:30.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me duele los riñones
+[26Apr2025 01:00:43.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali was slain by Dame Sean the Toasty
+[26Apr2025 01:00:43.812] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElAkakali with unique ID travelersbackpack.enderman_26.04.2025-01.00.43.dat
+[26Apr2025 01:00:43.844] [Server thread/INFO] [tombstone/]: The player ElAkakali has successfully been saved
+[26Apr2025 01:00:44.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> F
+[26Apr2025 01:00:47.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tfue1nfiel> tienes syda
+[26Apr2025 01:00:52.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> no ayudas pi maria
+[26Apr2025 01:01:03.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> a
+[26Apr2025 01:01:06.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali was slain by Dame Sean the Toasty
+[26Apr2025 01:01:06.413] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElAkakali with unique ID travelersbackpack.enderman_26.04.2025-01.01.06.dat
+[26Apr2025 01:01:06.427] [Server thread/INFO] [tombstone/]: The player ElAkakali has successfully been saved
+[26Apr2025 01:01:06.472] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Apr2025 01:01:06.472] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 13 is dual wielding: false
+[26Apr2025 01:01:06.473] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Apr2025 01:01:06.473] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Apr2025 01:01:06.473] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[26Apr2025 01:01:19.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Dame Sean the Toasty'/195948, l='ServerLevel[world]', x=-462.58, y=-11.00, z=-1263.11] died: Dame Sean the Toasty was slain by ElAkakali
+[26Apr2025 01:01:20.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Mijal has made the advancement [Sweet Dreams]
+[26Apr2025 01:01:24.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has completed the challenge [He Wasn't So Strong]
+[26Apr2025 01:01:24.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has reached the goal [Worthy Equipment]
+[26Apr2025 01:01:48.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was slain by Zombie
+[26Apr2025 01:01:48.858] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for o8h_msmc_jw5 with unique ID travelersbackpack.standard_26.04.2025-01.01.48.dat
+[26Apr2025 01:01:48.874] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[26Apr2025 01:01:48.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tfue1nfiel was slain by Zombie
+[26Apr2025 01:01:48.909] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Tfue1nfiel with unique ID travelersbackpack.iron_26.04.2025-01.01.48.dat
+[26Apr2025 01:01:48.921] [Server thread/INFO] [tombstone/]: The player Tfue1nfiel has successfully been saved
+[26Apr2025 01:01:48.964] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Apr2025 01:01:48.965] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[26Apr2025 01:01:48.965] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Apr2025 01:01:48.965] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Apr2025 01:01:48.965] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[26Apr2025 01:02:12.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was blown up by Creeper
+[26Apr2025 01:02:13.004] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for o8h_msmc_jw5 with unique ID travelersbackpack.standard_26.04.2025-01.02.12.dat
+[26Apr2025 01:02:13.034] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[26Apr2025 01:02:19.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Shadow_Mijal> kwodjapdo
+[26Apr2025 01:02:27.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tfue1nfiel has reached the goal [Bone Crusher]
+[26Apr2025 01:02:29.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Shadow_Mijal> escuche eso
+[26Apr2025 01:03:23.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tfue1nfiel was slain by Cave Spider
+[26Apr2025 01:03:23.603] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Tfue1nfiel with unique ID travelersbackpack.iron_26.04.2025-01.03.23.dat
+[26Apr2025 01:03:23.616] [Server thread/INFO] [tombstone/]: The player Tfue1nfiel has successfully been saved
+[26Apr2025 01:04:16.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> maria, akali mickey dice lol
+[26Apr2025 01:04:29.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> ma tarde
+[26Apr2025 01:04:40.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> pq ma tarde kli
+[26Apr2025 01:04:46.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> nos odias?
+[26Apr2025 01:07:07.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> termine ugu
+[26Apr2025 01:07:21.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> ta bomnito
+[26Apr2025 01:07:32.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> osea solo falta el techo pero ya mñn
+[26Apr2025 01:07:33.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> xd
+[26Apr2025 01:07:33.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> aestetik
+[26Apr2025 01:08:01.468] [ForkJoinPool.commonPool-worker-46/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[26Apr2025 01:08:01.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _BandoWasHere_[/127.215.170.189:48023] logged in with entity id 232215 at (-498.05208544002414, 63.0, 1127.6251843115817)
+[26Apr2025 01:08:01.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ joined the game
+[26Apr2025 01:08:01.546] [Server thread/INFO] [Jade/]: Syncing config to _BandoWasHere_ (58f61f4f-611c-3ed4-9dc8-bf9e6173bf1f)
+[26Apr2025 01:08:03.256] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _BandoWasHere_ (18)
+[26Apr2025 01:08:03.257] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _BandoWasHere_
+[26Apr2025 01:08:06.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[26Apr2025 01:08:25.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4138ms or 82 ticks behind
+[26Apr2025 01:08:28.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> alguien tiene champiñones?
+[26Apr2025 01:08:44.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3627ms or 72 ticks behind
+[26Apr2025 01:09:03.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3998ms or 79 ticks behind
+[26Apr2025 01:09:15.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> tengo 14
+[26Apr2025 01:09:18.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tfue1nfiel> q
+[26Apr2025 01:09:21.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> uuy dame 3 porfa
+[26Apr2025 01:09:21.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2983ms or 59 ticks behind
+[26Apr2025 01:09:30.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> ty
+[26Apr2025 01:09:37.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> tiene 14 añitos
+[26Apr2025 01:09:38.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> 3 de 14?
+[26Apr2025 01:09:38.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2744ms or 54 ticks behind
+[26Apr2025 01:09:42.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> jerry?
+[26Apr2025 01:09:55.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[26Apr2025 01:10:15.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4303ms or 86 ticks behind
+[26Apr2025 01:10:34.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> ola
+[26Apr2025 01:10:38.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tfue1nfiel> hi
+[26Apr2025 01:10:46.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> oal
+[26Apr2025 01:10:58.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> los deje en el cofre los otros 11
+[26Apr2025 01:11:02.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> ya pero sale lol?
+[26Apr2025 01:11:03.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[26Apr2025 01:11:05.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> gogo
+[26Apr2025 01:11:09.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> voy entrando
+[26Apr2025 01:11:12.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> ven estoy con micky
+[26Apr2025 01:11:19.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tfue1nfiel fell from a high place
+[26Apr2025 01:11:19.997] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Tfue1nfiel with unique ID travelersbackpack.iron_26.04.2025-01.11.19.dat
+[26Apr2025 01:11:19.998] [Server thread/INFO] [tombstone/]: The player Tfue1nfiel has successfully been saved
+[26Apr2025 01:15:15.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> mi flauta?
+[26Apr2025 01:15:21.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tfue1nfiel> xd
+[26Apr2025 01:15:25.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> :v
+[26Apr2025 01:15:34.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> -.-
+[26Apr2025 01:15:40.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> maria
+[26Apr2025 01:15:42.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> que mejora tienes
+[26Apr2025 01:15:45.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> en la mochila?
+[26Apr2025 01:15:54.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> no se
+[26Apr2025 01:15:56.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> no me hables
+[26Apr2025 01:16:00.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> asumare
+[26Apr2025 01:16:02.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> asison
+[26Apr2025 01:16:08.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> ladron
+[26Apr2025 01:16:10.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> de flautas
+[26Apr2025 01:16:11.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> :c
+[26Apr2025 01:16:14.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tfue1nfiel> xd
+[26Apr2025 01:16:15.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> XD
+[26Apr2025 01:16:23.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tfue1nfiel> webadas
+[26Apr2025 01:16:28.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_Mijal lost connection: Disconnected
+[26Apr2025 01:16:28.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Mijal left the game
+[26Apr2025 01:16:28.031] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Shadow_Mijal
+[26Apr2025 01:16:30.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> ?
+[26Apr2025 01:16:34.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> dime pue
+[26Apr2025 01:16:36.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> que mejora tienes
+[26Apr2025 01:16:45.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> hasta oro
+[26Apr2025 01:17:02.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> toma
+[26Apr2025 01:17:17.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> y ahora donde lo mejoro
+[26Apr2025 01:17:18.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> y para mi? ><
+[26Apr2025 01:17:32.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> aca
+[26Apr2025 01:17:46.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> pon cuero
+[26Apr2025 01:17:49.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> y eso
+[26Apr2025 01:17:52.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> y tu mochila
+[26Apr2025 01:17:59.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> xd
+[26Apr2025 01:18:36.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> toma jerry
+[26Apr2025 01:18:42.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> aver
+[26Apr2025 01:18:54.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> goood
+[26Apr2025 01:18:54.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tfue1nfiel lost connection: Disconnected
+[26Apr2025 01:18:54.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tfue1nfiel left the game
+[26Apr2025 01:18:54.762] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tfue1nfiel
+[26Apr2025 01:19:01.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> mejoren sus mochilas
+[26Apr2025 01:19:04.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> humilde
+[26Apr2025 01:19:17.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> gracias kkli
+[26Apr2025 01:19:21.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> te perdono todo
+[26Apr2025 01:19:40.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> las mujeres solo se las puede calmar con plata
+[26Apr2025 01:19:41.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> asison
+[26Apr2025 01:20:06.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> uwu?
+[26Apr2025 01:20:09.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> ya pero
+[26Apr2025 01:20:12.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> alguien quiere jugar lol?
+[26Apr2025 01:20:23.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> kli pq no entras al dc
+[26Apr2025 01:21:02.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> ma tarde
