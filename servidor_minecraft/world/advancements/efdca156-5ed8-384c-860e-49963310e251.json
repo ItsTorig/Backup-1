@@ -4789,8 +4789,10 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-04-26 02:54:18 +0000",
       "tomato": "2025-04-25 23:49:20 +0000",
       "sugar_cane": "2025-04-24 22:15:08 +0000",
+      "potato": "2025-04-26 02:46:52 +0000",
       "wheat": "2025-04-26 00:20:52 +0000",
       "carrot": "2025-04-25 00:05:21 +0000"
     },
@@ -7358,9 +7360,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-26 02:55:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-04-26 02:01:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-04-26 02:55:52 +0000"
     },
     "done": true
   },
@@ -7373,6 +7387,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-04-26 02:01:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-26 02:55:52 +0000"
     },
     "done": true
   },
