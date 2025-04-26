@@ -691,3 +691,10 @@
 [26Apr2025 03:30:10.004] [Server thread/INFO] [Jade/]: Syncing config to _BandoWasHere_ (58f61f4f-611c-3ed4-9dc8-bf9e6173bf1f)
 [26Apr2025 03:30:10.413] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _BandoWasHere_ (18)
 [26Apr2025 03:30:10.413] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _BandoWasHere_
+[26Apr2025 03:40:41.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 has made the advancement [Alex's Caves]
+[26Apr2025 03:40:48.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _BandoWasHere_ lost connection: Disconnected
+[26Apr2025 03:40:48.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ left the game
+[26Apr2025 03:40:48.208] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _BandoWasHere_
+[26Apr2025 03:42:56.005] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Apr2025 03:42:56.005] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Apr2025 03:46:57.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 has completed the challenge [Premium!]
