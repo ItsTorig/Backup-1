@@ -81,6 +81,7 @@
       "muddy_river": "2025-04-24 04:45:56 +0000",
       "redstone_caves": "2025-04-24 05:22:00 +0000",
       "maple_forest": "2025-04-24 03:28:27 +0000",
+      "deciduous_forest": "2025-04-25 23:49:58 +0000",
       "boreal_forest": "2025-04-24 04:52:22 +0000",
       "towering_cliffs": "2025-04-24 03:16:51 +0000",
       "temperate_grove": "2025-04-24 03:27:58 +0000",
@@ -97,6 +98,7 @@
       "autumnal_maple_forest": "2025-04-24 04:45:45 +0000",
       "muddy_river": "2025-04-24 04:45:56 +0000",
       "maple_forest": "2025-04-24 03:28:27 +0000",
+      "deciduous_forest": "2025-04-25 23:49:58 +0000",
       "boreal_forest": "2025-04-24 04:52:22 +0000",
       "towering_cliffs": "2025-04-24 03:16:51 +0000",
       "temperate_grove": "2025-04-24 03:27:58 +0000",
@@ -3493,7 +3495,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2025-04-25 04:18:47 +0000"
+      "minecraft:cow": "2025-04-25 04:18:47 +0000",
+      "minecraft:sheep": "2025-04-26 00:10:35 +0000"
     },
     "done": false
   },
@@ -5093,6 +5096,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-04-25 23:59:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-25 23:43:02 +0000"
@@ -5135,9 +5144,21 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-04-26 00:00:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-04-25 22:55:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-04-26 00:02:58 +0000"
     },
     "done": true
   },
@@ -5246,6 +5267,12 @@
   "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-04-25 23:43:02 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-04-25 23:50:06 +0000"
     },
     "done": true
   },
