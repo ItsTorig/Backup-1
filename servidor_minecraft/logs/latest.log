@@ -495,3 +495,33 @@
 [26Apr2025 02:25:00.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> a lo de los aldenos de ayer
 [26Apr2025 02:25:03.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> encontre otro
 [26Apr2025 02:25:09.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> te pase las coordes
+[26Apr2025 02:25:49.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Teleported Clearson06 to -2524.500000, 70.000000, 3105.500000]
+[26Apr2025 02:25:55.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> ya ven
+[26Apr2025 02:26:08.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> acepta
+[26Apr2025 02:26:35.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> se bugeo el voice chat?
+[26Apr2025 02:26:38.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> si
+[26Apr2025 02:26:42.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> xd
+[26Apr2025 02:26:44.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 07Tapp has made the advancement [Stone Age]
+[26Apr2025 02:26:46.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> entra a mi llamada
+[26Apr2025 02:26:51.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> normal dice bando
+[26Apr2025 02:26:54.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_BandoWasHere_> xd
+[26Apr2025 02:26:59.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> xd
+[26Apr2025 02:27:34.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from unholy damage
+[26Apr2025 02:27:34.576] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Torig10 with unique ID travelersbackpack.fox_26.04.2025-02.27.34.dat
+[26Apr2025 02:27:34.582] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[26Apr2025 02:28:15.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 07Tapp has made the advancement [A Seedy Place]
+[26Apr2025 02:30:15.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ drowned
+[26Apr2025 02:30:15.813] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_26.04.2025-02.30.15.dat
+[26Apr2025 02:30:15.817] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[26Apr2025 02:31:40.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-513, y=53, z=1195} BlockPos{x=-513, y=54, z=1195}
+[26Apr2025 02:31:52.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ drowned
+[26Apr2025 02:31:52.314] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_26.04.2025-02.31.52.dat
+[26Apr2025 02:31:52.316] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[26Apr2025 02:33:09.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has completed the challenge [Village Defender]
+[26Apr2025 02:34:01.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ drowned
+[26Apr2025 02:34:01.518] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_26.04.2025-02.34.01.dat
+[26Apr2025 02:34:01.524] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[26Apr2025 02:34:52.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 07Tapp was slain by Zombie Villager
+[26Apr2025 02:34:52.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 07Tapp has made the advancement [Your First Grave]
+[26Apr2025 02:34:52.344] [Server thread/INFO] [tombstone/]: The player 07Tapp has successfully been saved
+[26Apr2025 02:35:37.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has made the advancement [Voluntary Exile]
