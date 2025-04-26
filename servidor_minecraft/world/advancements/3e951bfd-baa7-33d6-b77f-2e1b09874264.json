@@ -82,6 +82,7 @@
       "muddy_river": "2025-04-24 03:23:26 +0000",
       "willow_forest": "2025-04-24 04:10:53 +0000",
       "barley_fields": "2025-04-24 21:25:07 +0000",
+      "poppy_fields": "2025-04-26 03:14:47 +0000",
       "grassy_beach": "2025-04-24 04:32:35 +0000",
       "rocky_meadow": "2025-04-24 04:10:02 +0000",
       "blackwood_taiga": "2025-04-24 19:08:55 +0000",
@@ -114,6 +115,7 @@
       "muddy_river": "2025-04-24 03:23:26 +0000",
       "willow_forest": "2025-04-24 04:10:53 +0000",
       "barley_fields": "2025-04-24 21:25:07 +0000",
+      "poppy_fields": "2025-04-26 03:14:47 +0000",
       "grassy_beach": "2025-04-24 04:32:35 +0000",
       "rocky_meadow": "2025-04-24 04:10:02 +0000",
       "blackwood_taiga": "2025-04-24 19:08:55 +0000",
@@ -5256,6 +5258,12 @@
   "aether:recipes/tools/diamond_axe_repairing": {
     "criteria": {
       "has_diamond_axe": "2025-04-26 02:18:39 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_villager": {
+    "criteria": {
+      "requirement": "2025-04-26 03:17:09 +0000"
     },
     "done": true
   },
