@@ -3666,21 +3666,45 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-04-26 02:19:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2025-04-26 02:19:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2025-04-26 02:19:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
     "criteria": {
       "has_log": "2025-04-26 02:23:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
     "criteria": {
-      "has_stone_bricks": "2025-04-26 03:00:30 +0000"
+      "has_log": "2025-04-26 02:23:37 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
     "criteria": {
-      "has_log": "2025-04-26 02:19:34 +0000"
+      "has_logs": "2025-04-26 02:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-26 03:00:30 +0000"
     },
     "done": true
   },
@@ -3702,12 +3726,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
-    "criteria": {
-      "has_logs": "2025-04-26 02:19:34 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2025-04-26 03:00:30 +0000"
@@ -3717,12 +3735,6 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-04-26 03:00:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/maple_wood": {
-    "criteria": {
-      "has_log": "2025-04-26 02:23:37 +0000"
     },
     "done": true
   },
@@ -3756,12 +3768,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/maple_planks": {
-    "criteria": {
-      "has_logs": "2025-04-26 02:23:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-26 03:00:30 +0000"
@@ -3771,12 +3777,6 @@
   "mcwbridges:recipes/stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-26 03:00:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
-    "criteria": {
-      "has_log": "2025-04-26 02:19:34 +0000"
     },
     "done": true
   },
