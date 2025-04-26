@@ -3796,73 +3796,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 05:34:57 +0000"
+      "log_spam_fixer": "2025-04-26 05:45:39 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 05:34:57 +0000"
+      "log_spam_fixer": "2025-04-26 05:45:39 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 05:34:57 +0000"
+      "log_spam_fixer": "2025-04-26 05:45:39 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 05:34:57 +0000"
+      "log_spam_fixer": "2025-04-26 05:45:39 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 05:34:57 +0000"
+      "log_spam_fixer": "2025-04-26 05:45:39 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 05:34:57 +0000"
+      "log_spam_fixer": "2025-04-26 05:45:39 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 05:34:57 +0000"
+      "log_spam_fixer": "2025-04-26 05:45:39 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 05:34:57 +0000"
+      "log_spam_fixer": "2025-04-26 05:45:39 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 05:34:57 +0000"
+      "log_spam_fixer": "2025-04-26 05:45:39 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 05:34:57 +0000"
+      "log_spam_fixer": "2025-04-26 05:45:39 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 05:34:57 +0000"
+      "log_spam_fixer": "2025-04-26 05:45:39 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 05:34:57 +0000"
+      "log_spam_fixer": "2025-04-26 05:45:39 +0000"
     },
     "done": false
   },
@@ -3874,6 +3874,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-04-26 05:43:33 +0000",
+      "beetroot": "2025-04-26 05:43:35 +0000",
+      "sugar_cane": "2025-04-26 05:43:44 +0000",
       "wheat": "2025-04-26 05:33:59 +0000"
     },
     "done": false
@@ -3881,6 +3884,12 @@
   "aether:recipes/tools/iron_hoe_repairing": {
     "criteria": {
       "has_iron_hoe": "2025-04-26 05:31:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-04-26 05:35:37 +0000"
     },
     "done": true
   },
@@ -3917,6 +3926,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-04-26 05:33:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_blue_dye_from_felicia_daisy": {
+    "criteria": {
+      "has_felicia_daisy": "2025-04-26 05:34:59 +0000"
     },
     "done": true
   },
