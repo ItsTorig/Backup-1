@@ -5225,6 +5225,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_hoe_repairing": {
+    "criteria": {
+      "has_diamond_hoe": "2025-04-26 04:29:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_shelf": {
     "criteria": {
       "has_birch_shelf": "2025-04-26 04:05:11 +0000"
@@ -5434,6 +5440,12 @@
   "mcwbridges:recipes/birch_rail_bridge": {
     "criteria": {
       "has_planks": "2025-04-26 04:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-26 04:35:55 +0000"
     },
     "done": true
   },
