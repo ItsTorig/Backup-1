@@ -4028,5 +4028,65 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-04-26 04:49:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-04-26 04:49:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/green_petal_block": {
+    "criteria": {
+      "has_item": "2025-04-26 04:49:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/green_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-04-26 04:49:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-04-26 04:49:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-04-26 04:49:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green_double": {
+    "criteria": {
+      "has_alt_item": "2025-04-26 04:49:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_green": {
+    "criteria": {
+      "has_item": "2025-04-26 04:49:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-04-26 04:49:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_alt_item": "2025-04-26 04:49:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

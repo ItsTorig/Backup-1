@@ -5130,12 +5130,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/emu": {
-    "criteria": {
-      "interact": "2025-04-26 04:43:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-04-26 04:40:01 +0000"
@@ -5145,6 +5139,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-04-26 04:40:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "interact": "2025-04-26 04:43:08 +0000"
     },
     "done": true
   },
