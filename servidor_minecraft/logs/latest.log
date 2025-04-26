@@ -387,3 +387,30 @@
 [26Apr2025 01:20:12.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> alguien quiere jugar lol?
 [26Apr2025 01:20:23.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> kli pq no entras al dc
 [26Apr2025 01:21:02.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> ma tarde
+[26Apr2025 01:24:25.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: o8h_msmc_jw5 lost connection: Disconnected
+[26Apr2025 01:24:25.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 left the game
+[26Apr2025 01:24:25.863] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client o8h_msmc_jw5
+[26Apr2025 01:26:46.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> kkli
+[26Apr2025 01:26:50.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> como tienes esa mega espada
+[26Apr2025 01:26:56.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> XDDDDD
+[26Apr2025 01:27:01.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> kkli pq no entras al vc
+[26Apr2025 01:27:07.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> espera
+[26Apr2025 01:27:15.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> tevoyamatar
+[26Apr2025 01:27:24.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> >:v
+[26Apr2025 01:27:56.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Edlynne1 lost connection: Disconnected
+[26Apr2025 01:27:56.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 left the game
+[26Apr2025 01:27:56.400] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Edlynne1
+[26Apr2025 01:28:26.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElAkakali lost connection: Disconnected
+[26Apr2025 01:28:26.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali left the game
+[26Apr2025 01:28:26.466] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElAkakali
+[26Apr2025 01:29:42.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was slain by Zombie
+[26Apr2025 01:29:42.539] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_26.04.2025-01.29.42.dat
+[26Apr2025 01:29:42.546] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[26Apr2025 01:32:54.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was slain by Zombie
+[26Apr2025 01:32:54.839] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_26.04.2025-01.32.54.dat
+[26Apr2025 01:32:54.849] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[26Apr2025 01:32:54.863] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Apr2025 01:32:54.863] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 23 is dual wielding: false
+[26Apr2025 01:32:54.864] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Apr2025 01:32:54.864] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Apr2025 01:32:54.864] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
