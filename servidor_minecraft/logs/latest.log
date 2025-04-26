@@ -698,3 +698,17 @@
 [26Apr2025 03:42:56.005] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [26Apr2025 03:42:56.005] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [26Apr2025 03:46:57.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 has completed the challenge [Premium!]
+[26Apr2025 03:55:08.065] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: MinecartChest['Minecart with Chest'/399065, l='ServerLevel[world]', x=-1466.50, y=-12.50, z=2493.50]
+[26Apr2025 03:55:50.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clearson06 moved too quickly! 6.627257383208416,-0.774615462164995,-7.863582280081573
+[26Apr2025 03:55:50.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5438ms or 108 ticks behind
+[26Apr2025 03:55:56.992] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: MimicEntity['Mimic'/399896, l='ServerLevel[world]', x=-1177.50, y=39.50, z=2313.50]
+[26Apr2025 03:56:04.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clearson06 moved too quickly! 10.275235993240585,-0.12129684053920187,0.3746874181779276
+[26Apr2025 03:56:06.842] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Rabbit['Rabbit'/399953, l='ServerLevel[world]', x=-1144.00, y=74.00, z=2338.00]
+[26Apr2025 03:56:06.842] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Rabbit['Rabbit'/399954, l='ServerLevel[world]', x=-1146.00, y=76.00, z=2340.00]
+[26Apr2025 03:56:09.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clearson06 moved too quickly! 9.609687955764457,0.7287758923075103,-3.0288894608606824
+[26Apr2025 03:56:11.168] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: MimicEntity['Mimic'/399979, l='ServerLevel[world]', x=-1128.50, y=-18.50, z=2388.50]
+[26Apr2025 03:56:12.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7192ms or 143 ticks behind
+[26Apr2025 03:56:31.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clearson06 moved wrongly!
+[26Apr2025 03:58:46.755] [Worker-Main-10/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[26Apr2025 03:59:30.413] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[26Apr2025 03:59:49.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clearson06 moved too quickly! 10.133828014487221,1.2491870787446828,-0.15819808284800274

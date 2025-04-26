@@ -5267,6 +5267,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-04-26 03:46:57 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_villager": {
     "criteria": {
       "requirement": "2025-04-26 03:17:09 +0000"
