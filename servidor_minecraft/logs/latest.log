@@ -1310,3 +1310,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Apr2025 15:01:41.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 left the game
 [26Apr2025 15:01:41.614] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Clearson06
 [26Apr2025 15:01:41.661] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Apr2025 15:01:59.346] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/10874, l='ServerLevel[world]', x=2382.22, y=69.54, z=128.16] died: Honeyed Archer suffocated in a wall
+[26Apr2025 15:10:46.489] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[26Apr2025 15:10:46.525] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Clearson06[/127.96.34.32:51411] logged in with entity id 13622 at (-363.23750001192093, 65.0, 1147.699999988079)
+[26Apr2025 15:10:46.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 joined the game
+[26Apr2025 15:10:46.613] [Server thread/INFO] [Jade/]: Syncing config to Clearson06 (3e951bfd-baa7-33d6-b77f-2e1b09874264)
+[26Apr2025 15:10:46.961] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Clearson06 (18)
+[26Apr2025 15:10:46.962] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Clearson06
+[26Apr2025 15:11:03.492] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3e951bfd-baa7-33d6-b77f-2e1b09874264
+[26Apr2025 15:11:04.496] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3e951bfd-baa7-33d6-b77f-2e1b09874264
+[26Apr2025 15:11:04.497] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Clearson06 (3e951bfd-baa7-33d6-b77f-2e1b09874264) successfully connected to voice chat
