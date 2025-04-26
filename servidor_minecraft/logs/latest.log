@@ -414,3 +414,84 @@
 [26Apr2025 01:32:54.864] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
 [26Apr2025 01:32:54.864] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [26Apr2025 01:32:54.864] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
+[26Apr2025 01:56:35.486] [ForkJoinPool.commonPool-worker-52/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[26Apr2025 01:56:35.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Clearson06[/127.96.34.32:44491] logged in with entity id 318493 at (-2459.325493597931, 118.0, 3060.694789360949)
+[26Apr2025 01:56:35.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 joined the game
+[26Apr2025 01:56:35.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 has completed the challenge [He Wasn't So Strong]
+[26Apr2025 01:56:35.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 has made the advancement [Who is Cutting Onions?]
+[26Apr2025 01:56:35.779] [Server thread/INFO] [Jade/]: Syncing config to Clearson06 (3e951bfd-baa7-33d6-b77f-2e1b09874264)
+[26Apr2025 01:56:39.421] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Clearson06 (18)
+[26Apr2025 01:56:39.421] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Clearson06
+[26Apr2025 01:56:42.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Torig10[/127.67.201.194:41115] logged in with entity id 318690 at (2392.281761345421, 71.0, 1.559001405289517)
+[26Apr2025 01:56:42.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 joined the game
+[26Apr2025 01:56:42.870] [Server thread/INFO] [Jade/]: Syncing config to Torig10 (efdca156-5ed8-384c-860e-49963310e251)
+[26Apr2025 01:56:44.740] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Torig10 (18)
+[26Apr2025 01:56:44.741] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Torig10
+[26Apr2025 01:57:10.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> volvi
+[26Apr2025 02:00:09.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> torig
+[26Apr2025 02:00:14.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> que paso
+[26Apr2025 02:00:15.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> encontre esa dungeon de ayer
+[26Apr2025 02:00:18.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> de aldeanos negros
+[26Apr2025 02:00:19.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> otra
+[26Apr2025 02:00:23.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> hay q hacerla
+[26Apr2025 02:00:28.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> vamos?
+[26Apr2025 02:00:31.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> pero primero tepeame a mi casa pes
+[26Apr2025 02:00:32.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> yaya espera
+[26Apr2025 02:00:37.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> que me equipo
+[26Apr2025 02:00:48.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> para que tp?
+[26Apr2025 02:00:59.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> para dejar mis cosas
+[26Apr2025 02:01:04.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> no vuelvo desde ayer
+[26Apr2025 02:01:07.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> toy llenoç
+[26Apr2025 02:02:31.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has made the advancement [Cover Me with Diamonds]
+[26Apr2025 02:02:39.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> te escribi al ds
+[26Apr2025 02:03:55.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was shot by Skeleton
+[26Apr2025 02:03:55.316] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_26.04.2025-02.03.55.dat
+[26Apr2025 02:03:55.323] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[26Apr2025 02:04:42.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ has reached the goal [Chain Death]
+[26Apr2025 02:04:42.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ drowned
+[26Apr2025 02:04:42.412] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_26.04.2025-02.04.42.dat
+[26Apr2025 02:04:42.416] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[26Apr2025 02:04:45.179] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[26Apr2025 02:04:45.179] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[26Apr2025 02:05:02.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-501, y=49, z=1208} BlockPos{x=-501, y=50, z=1208}
+[26Apr2025 02:05:08.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-500, y=51, z=1208} BlockPos{x=-500, y=50, z=1208}
+[26Apr2025 02:05:38.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Teleported Clearson06 to -375.500000, 70.000000, 1102.500000]
+[26Apr2025 02:06:04.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ drowned
+[26Apr2025 02:06:04.759] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_26.04.2025-02.06.04.dat
+[26Apr2025 02:06:04.762] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[26Apr2025 02:08:56.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ drowned
+[26Apr2025 02:08:56.867] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_26.04.2025-02.08.56.dat
+[26Apr2025 02:08:56.873] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[26Apr2025 02:11:57.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was shot by Skeleton
+[26Apr2025 02:11:57.461] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_26.04.2025-02.11.57.dat
+[26Apr2025 02:11:57.469] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[26Apr2025 02:17:55.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _BandoWasHere_ lost connection: Disconnected
+[26Apr2025 02:17:55.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ left the game
+[26Apr2025 02:17:55.356] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _BandoWasHere_
+[26Apr2025 02:18:14.871] [ForkJoinPool.commonPool-worker-56/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[26Apr2025 02:18:14.914] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _BandoWasHere_[/127.215.170.189:60613] logged in with entity id 329996 at (-401.1313030019661, 71.0, 1237.8688058024898)
+[26Apr2025 02:18:14.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ joined the game
+[26Apr2025 02:18:14.987] [Server thread/INFO] [Jade/]: Syncing config to _BandoWasHere_ (58f61f4f-611c-3ed4-9dc8-bf9e6173bf1f)
+[26Apr2025 02:18:15.187] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _BandoWasHere_ (18)
+[26Apr2025 02:18:15.188] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _BandoWasHere_
+[26Apr2025 02:20:36.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_BandoWasHere_> arroba mods
+[26Apr2025 02:22:50.942] [ForkJoinPool.commonPool-worker-59/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[26Apr2025 02:22:50.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 07Tapp[/127.167.43.33:52471] logged in with entity id 331738 at (2.5, 66.0, 7.5)
+[26Apr2025 02:22:50.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 07Tapp joined the game
+[26Apr2025 02:22:51.045] [Server thread/INFO] [Jade/]: Syncing config to 07Tapp (c718c466-5913-3954-8705-dbe5464bbda0)
+[26Apr2025 02:22:52.358] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 07Tapp (18)
+[26Apr2025 02:22:52.358] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 07Tapp
+[26Apr2025 02:23:00.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was mauled by Necromancer's undead
+[26Apr2025 02:23:00.054] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_26.04.2025-02.23.00.dat
+[26Apr2025 02:23:00.072] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[26Apr2025 02:23:27.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was shot by Summoned Skeleton
+[26Apr2025 02:23:27.264] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_26.04.2025-02.23.27.dat
+[26Apr2025 02:23:27.270] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[26Apr2025 02:23:52.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> torig
+[26Apr2025 02:23:53.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> ya vamos
+[26Apr2025 02:23:56.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> gogogogogog
+[26Apr2025 02:24:07.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> tepea
+[26Apr2025 02:24:44.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> a donde
+[26Apr2025 02:25:00.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> a lo de los aldenos de ayer
+[26Apr2025 02:25:03.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> encontre otro
+[26Apr2025 02:25:09.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> te pase las coordes

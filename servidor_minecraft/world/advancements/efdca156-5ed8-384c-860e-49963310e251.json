@@ -7266,77 +7266,35 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 00:47:07 +0000"
+      "wheat": "2025-04-26 00:20:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "tombstone:adventure/create_strange_tablet": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 00:47:07 +0000"
+      "has_strange_tablet": "2025-04-26 00:43:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "tombstone:adventure/combine_in_inventory": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 00:47:07 +0000"
+      "coded_trigger": "2025-04-26 00:44:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "tombstone:adventure/consume_soul": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 00:47:07 +0000"
+      "coded_trigger": "2025-04-26 00:44:11 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "tombstone:adventure/use_assistance": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 00:47:07 +0000"
+      "coded_trigger": "2025-04-26 00:46:36 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-26 00:47:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-26 00:47:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-26 00:47:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-26 00:47:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-26 00:47:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-26 00:47:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-26 00:47:07 +0000"
-    },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
@@ -7356,18 +7314,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_strange_tablet": {
-    "criteria": {
-      "has_strange_tablet": "2025-04-26 00:43:39 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/consume_soul": {
-    "criteria": {
-      "coded_trigger": "2025-04-26 00:44:11 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-04-26 00:46:48 +0000"
@@ -7380,27 +7326,51 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_assistance": {
-    "criteria": {
-      "coded_trigger": "2025-04-26 00:46:36 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/combine_in_inventory": {
-    "criteria": {
-      "coded_trigger": "2025-04-26 00:44:06 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
       "has_tomato": "2025-04-26 00:46:48 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "wheat": "2025-04-26 00:20:52 +0000"
+      "diamond_chestplate": "2025-04-26 02:02:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-04-26 02:01:42 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2025-04-26 02:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-26 02:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-26 02:01:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-04-26 02:02:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-26 02:01:42 +0000"
     },
     "done": true
   },
