@@ -7445,12 +7445,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2025-04-26 14:44:12 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/use_disenchantment": {
     "criteria": {
       "coded_trigger": "2025-04-26 14:19:12 +0000"
@@ -7466,6 +7460,18 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-04-26 14:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-04-26 14:44:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_shrub": {
+    "criteria": {
+      "has_pine_sapling": "2025-04-26 15:38:36 +0000"
     },
     "done": true
   },
