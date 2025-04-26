@@ -712,3 +712,10 @@
 [26Apr2025 03:58:46.755] [Worker-Main-10/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [26Apr2025 03:59:30.413] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [26Apr2025 03:59:49.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clearson06 moved too quickly! 10.133828014487221,1.2491870787446828,-0.15819808284800274
+[26Apr2025 04:22:57.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> me retiro
+[26Apr2025 04:23:01.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> capaz venga uno mas
+[26Apr2025 04:23:05.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> hablamos
+[26Apr2025 04:23:18.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> el server se cierra 10 min despues de no entrar
+[26Apr2025 04:23:19.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Torig10 lost connection: Disconnected
+[26Apr2025 04:23:19.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 left the game
+[26Apr2025 04:23:19.557] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Torig10
